@@ -35,7 +35,7 @@ header #particles-js {
 }
 
 header .bggimg {
-  background-image: url("https://github.com/roshansharma880/portifilo/blob/62b772c751a9574d696383d190730bb93351aa9c/img/bg.jpgs");
+  background-image: url("/bg.jpg");
   background-size: cover;
   background-position: center center;
   background-attachment: fixed;
@@ -249,7 +249,7 @@ header .about_me_content .basic_info .single_basic_info p span {
 }
 
 .counter {
-  background-image: url("/img/counter-bg.jpg");
+  background-image: url("./counter-bg.jpg");
   background-size: cover;
   background-position: center center;
   position: relative;
